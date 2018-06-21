@@ -4,7 +4,7 @@ Code for computing shock outcome prediction features using an example database.
 
 This repository is structured the following way:
 
-The main script computeFeatures.m  loads the database BBDD.mat and computes the shock outcome predicción features.
+The main script computeFeatures.m  loads the database BBDD.mat and computes the shock outcome prediction features.
 
 The database BBDD.mat contains 6 cases of out of hospital cardiac arrest patients with a 5 s preshock segment of the ECG signal.
 
